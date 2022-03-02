@@ -4,8 +4,8 @@ import (
 	"database/sql"
 	"log"
 
+	"github.com/banilbhat/taskpad/api/repositories"
 	"github.com/gin-gonic/gin"
-	"github.com/madhanganesh/taskpad/api/repositories"
 )
 
 // UserTagsController struct

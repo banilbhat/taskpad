@@ -7,9 +7,9 @@ import (
 	"log"
 	"strconv"
 
+	"github.com/banilbhat/taskpad/api/models"
+	"github.com/banilbhat/taskpad/api/repositories"
 	"github.com/gin-gonic/gin"
-	"github.com/madhanganesh/taskpad/api/models"
-	"github.com/madhanganesh/taskpad/api/repositories"
 )
 
 // ReportController struct

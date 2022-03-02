@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/madhanganesh/taskpad/api/models"
+	"github.com/banilbhat/taskpad/api/models"
 )
 
 // TaskRepository struct

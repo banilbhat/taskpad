@@ -8,9 +8,9 @@ import (
 	"github.com/gin-gonic/gin"
 	_ "github.com/lib/pq"
 
-	"github.com/madhanganesh/taskpad/api/controllers"
-	"github.com/madhanganesh/taskpad/api/middlewares"
-	"github.com/madhanganesh/taskpad/api/util"
+	"github.com/banilbhat/taskpad/api/controllers"
+	"github.com/banilbhat/taskpad/api/middlewares"
+	"github.com/banilbhat/taskpad/api/util"
 )
 
 func main() {

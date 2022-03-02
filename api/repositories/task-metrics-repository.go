@@ -3,7 +3,7 @@ package repositories
 import (
 	"database/sql"
 
-	"github.com/madhanganesh/taskpad/api/models"
+	"github.com/banilbhat/taskpad/api/models"
 )
 
 // TaskMetricsRepository struct

@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/madhanganesh/taskpad.git"
+    "url": "git+https://github.com/banilbhat/taskpad.git"
   },
   "keywords": [
     "taskpad",
@@ -31,9 +31,9 @@
   "author": "madhanganesh@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/madhanganesh/taskpad/issues"
+    "url": "https://github.com/banilbhat/taskpad/issues"
   },
-  "homepage": "https://github.com/madhanganesh/taskpad#readme",
+  "homepage": "https://github.com/banilbhat/taskpad#readme",
   "devDependencies": {
     "@types/assert": "^1.4.1",
     "@types/axios": "^0.14.0",
