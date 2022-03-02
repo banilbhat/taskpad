@@ -9,7 +9,7 @@ import (
 	"strings"
 
 	jwtmiddleware "github.com/auth0/go-jwt-middleware"
-	jwt "github.com/form3tech-oss/jwt-go"
+	jwt "github.com/dgrijalva/jwt-go"
 	"github.com/gin-gonic/gin"
 )
 
