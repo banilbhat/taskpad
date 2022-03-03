@@ -50,3 +50,7 @@ Please see the command in npm start of server.
 - It requires fe environment variables:
   - Postgres DB details
   - Auth0 client ID
+
+export GOPATH=$HOME/go
+master1@master1-001:~/taskpad$ export PATH=$PATH:$GOPATH/bin
+
